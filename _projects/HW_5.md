@@ -36,4 +36,4 @@ This bar chart shows the number of Bigfoot sightings aggregated by decade. To si
 
 ## 🔗 Resources  
 [📁 The Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv)  
-[📓 The Notebook](https://github.com/pranavhharish/pranavhharish.github.io/blob/main/python_notebooks/test_generate_plots.ipynb)
+[📓 The Notebook](https://github.com/pranavhharish/pranavhharish.github.io/blob/main/python_notebooks/Workbook.ipynb)
