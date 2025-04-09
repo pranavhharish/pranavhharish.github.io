@@ -1,7 +1,7 @@
 ---
 name: HW_5
 tools: [altair, bigfoot, data-visualization]
-image: assets/post.png
+image: assets/plot.png
 description: This is a "HW_5"!
 custom_js:  
   - vega.min
